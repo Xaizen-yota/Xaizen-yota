@@ -31,11 +31,11 @@
 <p><a align='<div class="tenor-gif-embed" data-postid="21023381" data-share-method="host" data-aspect-ratio="1.77778" data-width="100%"><a href="https://tenor.com/view/xiao-gif-21023381">Xiao GIF</a>from <a href="https://tenor.com/search/xiao-gifs">Xiao GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="its a jkk xd" /></a></p><br><br>
   
   <br>
-  ![xiao](https://github.com/Xaizen-yota/Xaizen-yota/assets/137452953/2ffda7d3-41bf-4b2a-b94d-a5c4c7d05a66)
-
+  
+![byebye](https://drive.google.com/drive/folders/1-eEzZwvkA2P_GM5R8nbOi7Un_LUslJm8?usp=sharing)
  
 
   
    <h2 align = "center"> Thank you for visiting my github<img src = "https://tenor.com/view/paimon-genshin-impact-dance-fortnite-orange-justice-gif-18917665" width= "50px"></h2> 
 </div>
-![paimon-genshin-impact](https://github.com/Xaizen-yota/Xaizen-yota/assets/137452953/5b19dd99-069c-435a-ab9f-b165005cf846)
+
