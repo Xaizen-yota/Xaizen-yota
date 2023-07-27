@@ -105,8 +105,8 @@ So don't hesitate to reach out to me. I'm here, eager to connect and explore how
   <br>
   
  
-<img src ="https://media.giphy.com/media/3o6ZtcOxQ9vi8vb9Cg/giphy.gif" width= "300px" >  
+<img src ="<div class="tenor-gif-embed" data-postid="21023381" data-share-method="host" data-aspect-ratio="1.77778" data-width="100%"><a href="https://tenor.com/view/xiao-gif-21023381">Xiao GIF</a>from <a href="https://tenor.com/search/xiao-gifs">Xiao GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>" width= "300px" >  
   
-   <h2 align = "center"> Thank you for visiting my github<img src = "https://media.giphy.com/media/IcJ6n6VJNjRNS/giphy.gif" width= "50px"></h2> 
+   <h2 align = "center"> Thank you for visiting my github<img src = "https://tenor.com/view/paimon-genshin-impact-dance-fortnite-orange-justice-gif-18917665" width= "50px"></h2> 
 </div>
 
