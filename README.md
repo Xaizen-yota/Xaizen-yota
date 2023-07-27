@@ -58,11 +58,9 @@
  <img src="https://github.com/Xaizen-yota/Xaizen-yota/blob/main/bye%20bye.gif" ></h2>
 </p>
 
-<br>
 
 
 
 
 <h2 align="center">Thank you for visiting my GitHub <img src="https://github.com/Xaizen-yota/Xaizen-yota/blob/main/byby.gif" width="50px"></h2>
-<br>
-<br>
+
