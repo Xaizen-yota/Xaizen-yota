@@ -4,6 +4,8 @@
 <h1 align="center">Hi 👋, I'm Mosen Xaizen-yota</h1>
 <h3 align="center">A passionate frontend developer from Mondstadt</h3>
 
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=samawi-lah-idawi&label=Profile%20views&color=0e75b6&style=flat" alt="samawi-lah-idawi" /> </p>
+
 
 - 🔭 I’m currently studying at [ALX Africa](https://www.alxafrica.com/)
 
@@ -29,7 +31,8 @@
 <p>
 <a align='center' href="https://youtu.be/xj0cwfbHByQ"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="its a jkk xd" /></a>
 </p>
-<br><br>
+<br>
+<br>
 
 <!-- Replace the URL below with the correct image URL -->
 <!-- You can use an image hosting service or host the image in your repository's "assets" folder -->
