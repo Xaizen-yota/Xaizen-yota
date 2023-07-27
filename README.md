@@ -6,8 +6,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=samawi-lah-idawi&label=Profile%20views&color=0e75b6&style=flat" alt="views" /> </p>
 
-<img align='right' alt='coding' width='400' src="https://repository-images.githubusercontent.com/462900780/0a10af70-6cbf-46df-9071-0ff586a3b1d6">
 
+<img src="https://github.com/Xaizen-yota/Xaizen-yota/blob/main/byby.gif" width="450px" align="right">
 
 - 🔭 I’m currently studying at [ALX Africa](https://www.alxafrica.com/)
 
