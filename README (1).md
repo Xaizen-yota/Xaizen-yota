@@ -41,6 +41,6 @@
 <!-- Example: ![byebye](https://example.com/path/to/your/image.png) -->
 <!-- Make sure the image URL is publicly accessible -->
 <!-- For GIFs, use the correct image format (.gif) in the URL -->
-![byebye](YOUR_IMAGE_URL_HERE)
+![byebye](https://drive.google.com/drive/folders/1-eEzZwvkA2P_GM5R8nbOi7Un_LUslJm8?usp=sharing)
 
-<h2 align="center">Thank you for visiting my GitHub <img src="https://tenor.com/view/paimon-genshin-impact-dance-fortnite-orange-justice-gif-18917665" width="50px"></h2>
+<h2 align="center">Thank you for visiting my GitHub <img src="https://media.tenor.com/Hwiwtpkvq1wAAAAC/paimon-genshin-impact.gif" width="50px"></h2>
