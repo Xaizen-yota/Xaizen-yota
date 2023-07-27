@@ -61,6 +61,5 @@
 
 
 
-
-<h2 align="center">Thank you for visiting my GitHub <img src="https://github.com/Xaizen-yota/Xaizen-yota/blob/main/byby.gif" width="50px"></h2>
+<h2 align="left">Thank you for visiting my GitHub <img src="https://github.com/Xaizen-yota/Xaizen-yota/blob/main/byby.gif" width="50px" ></h2>
 
