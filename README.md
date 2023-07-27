@@ -35,7 +35,7 @@
 <br>
 <br>
 <br>
-<br>
+
 
 
 <h3 align="center">Support:</h3>
@@ -43,6 +43,7 @@
 <a align='center' href="https://youtu.be/KUzd8BcVSdo"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="its a jkk xd" /></a>
 </p>
 
+<br>
 <br>
 <br>
 
