@@ -1,14 +1,10 @@
 ![logo](https://github.com/Xaizen-yota/Xaizen-yota/blob/main/lvl-up.gif)
 
-<p align="left" border-radius: 10px> <img src="https://komarev.com/ghpvc/?username=samawi-lah-idawi&label=Profile%20views&color=0e75b6&style=flat" alt="samawi-lah-idawi" /> </p>
-
-
 <img align='right' alt='coding' width='400' src="https://i.postimg.cc/Y9Sc7x93/68747470733a2f2f696d616765732e73717561726573706163652d63646e2e636f6d2f636f6e74656e742f76312f35373639.gif">
 
 <h1 align="center">Hi 👋, I'm Mosen Xaizen-yota</h1>
 <h3 align="center">A passionate frontend developer from Mondstadt</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=samawi-lah-idawi&label=Profile%20views&color=0e75b6&style=flat" alt="samawi-lah-idawi" /> </p>
 
 <img align='right' alt='coding' width='400' src="https://repository-images.githubusercontent.com/462900780/0a10af70-6cbf-46df-9071-0ff586a3b1d6">
 
