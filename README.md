@@ -41,6 +41,6 @@
 <!-- Example: ![byebye](https://example.com/path/to/your/image.png) -->
 <!-- Make sure the image URL is publicly accessible -->
 <!-- For GIFs, use the correct image format (.gif) in the URL -->
-![byebye](https://drive.google.com/drive/folders/1-eEzZwvkA2P_GM5R8nbOi7Un_LUslJm8?usp=sharing)
+![byebye](https://github.com/Xaizen-yota/Xaizen-yota/blob/main/bye%20bye.gif)
 
 <h2 align="center">Thank you for visiting my GitHub <img src="https://drive.google.com/drive/folders/1-eEzZwvkA2P_GM5R8nbOi7Un_LUslJm8?usp=sharing" width="50px"></h2>
