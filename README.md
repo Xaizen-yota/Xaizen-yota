@@ -1,4 +1,4 @@
-![logo](https://github.com/Samawi-lah-idawi/Samawi-lah-idawi/blob/main/Black%20Minimal%20Business%20Personal%20Profile%20Linkedin%20Banner.png)
+
 <h1 align="center">Hi 👋, I'm Mosen Xaizen-yota  </h1>
 <h3 align="center">A passionate frontend developer from Mondstadt </h3>
 
