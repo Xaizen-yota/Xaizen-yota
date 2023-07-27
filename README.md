@@ -1,6 +1,4 @@
-![logo](https://github.com/Samawi-lah-idawi/Samawi-lah-idawi/blob/main/Black%20Minimal%20Business%20Personal%20Profile%20Linkedin%20Banner.png)
-<h1 align="center">Hi 👋, I'm Oussama ben mazzi</h1>
-<h3 align="center">A passionate frontend developer from Morocco</h3>
+![logo](https://github.com/Xaizen-yota/Xaizen-yota/blob/main/lvl-up.gif)
 
 <p align="left" border-radius: 10px> <img src="https://komarev.com/ghpvc/?username=samawi-lah-idawi&label=Profile%20views&color=0e75b6&style=flat" alt="samawi-lah-idawi" /> </p>
 
@@ -36,12 +34,7 @@
 
 <h3 align="left">Support:</h3>
 <p>
-<!-- Replace the URL below with the correct image URL -->
-<!-- You can use an image hosting service or host the image in your repository's "assets" folder -->
-<!-- Example: ![byebye](https://example.com/path/to/your/image.png) -->
-<!-- Make sure the image URL is publicly accessible -->
-<!-- For GIFs, use the correct image format (.gif) in the URL -->
-<img align="left" src="YOUR_IMAGE_URL_HERE" height="50" width="210" alt="its a jkk xd" />
+<a align='center' href="https://youtu.be/xj0cwfbHByQ"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="its a jkk xd" /></a>
 </p>
 <br><br>
 
@@ -50,11 +43,6 @@
 <!-- Example: ![byebye](https://example.com/path/to/your/image.png) -->
 <!-- Make sure the image URL is publicly accessible -->
 <!-- For GIFs, use the correct image format (.gif) in the URL -->
-![byebye](https://youtu.be/xj0cwfbHByQ)
+![byebye](https://github.com/Xaizen-yota/Xaizen-yota/blob/main/bye%20bye.gif)
 
-<h2 align="center">Thank you for visiting my GitHub <img src="https://tenor.com/view/paimon-genshin-impact-dance-fortnite-orange-justice-gif-18917665" width="50px"></h2>
-
-
-<h3 align="left">Support:</h3>
-<p><a align='center' href="https://youtu.be/xj0cwfbHByQ"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="its a jkk xd" /></a></p><br><br>
-
+<h2 align="center">Thank you for visiting my GitHub <img src="https://github.com/Xaizen-yota/Xaizen-yota/blob/main/byby.gif" width="50px"></h2>
