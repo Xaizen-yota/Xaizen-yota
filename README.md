@@ -1,4 +1,4 @@
- <img src="https://github.com/Xaizen-yota/Xaizen-yota/blob/main/lvl-up.gif"  align="center">
+ <img align="center" src="https://github.com/Xaizen-yota/Xaizen-yota/blob/main/lvl-up.gif" >
 
 
 <h1 align="center">Hi 👋, I'm Mosen Xaizen-yota</h1>
@@ -7,7 +7,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=samawi-lah-idawi&label=Profile%20views&color=0e75b6&style=flat" alt="views" /> </p>
 
 
-<img src="https://github.com/Xaizen-yota/Xaizen-yota/blob/main/byby.gif" width="450px" align="right">
+<img src="https://github.com/Xaizen-yota/Xaizen-yota/blob/main/devgif.gif" width="450px" align="right">
 
 - 🔭 I’m currently studying at [ALX Africa](https://www.alxafrica.com/)
 
@@ -31,9 +31,17 @@
 
 <h3 align="center">Support:</h3>
 <p>
-<a align='center' href="https://youtu.be/xj0cwfbHByQ"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="its a jkk xd" /></a>
+<a align='center' href="https://youtu.be/xj0cwfbHByQ"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="its a jkk xd" /></a>
 </p>
 
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
 <br>
 <br>
 <br>
