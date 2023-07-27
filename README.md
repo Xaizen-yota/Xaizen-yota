@@ -4,7 +4,9 @@
 <h1 align="center">Hi 👋, I'm Mosen Xaizen-yota</h1>
 <h3 align="center">A passionate frontend developer from Mondstadt</h3>
 
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=samawi-lah-idawi&label=Profile%20views&color=0e75b6&style=flat" alt="samawi-lah-idawi" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=samawi-lah-idawi&label=Profile%20views&color=0e75b6&style=flat" alt="views" /> </p>
+
+<img align='right' alt='coding' width='400' src="https://repository-images.githubusercontent.com/462900780/0a10af70-6cbf-46df-9071-0ff586a3b1d6">
 
 
 - 🔭 I’m currently studying at [ALX Africa](https://www.alxafrica.com/)
