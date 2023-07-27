@@ -35,6 +35,8 @@
 <br>
 <br>
 <br>
+<br>
+<br>
 
 <h3 align="center">Support:</h3>
 <p align="center">
@@ -65,5 +67,5 @@
 
 
 
-<h2 margin-right="30px" align="center">Thank you for visiting my GitHub <img src="https://github.com/Xaizen-yota/Xaizen-yota/blob/main/byby.gif"  height="30px" width="35px" ></h2>
+<h2  align="center">Thank you for visiting my GitHub <img src="https://github.com/Xaizen-yota/Xaizen-yota/blob/main/byby.gif" margin-right="30px" height="30px" width="30px" ></h2>
 
