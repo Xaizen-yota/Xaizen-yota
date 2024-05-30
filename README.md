@@ -1,6 +1,6 @@
 
  <p align="center">
-  <img src="https://tenor.com/view/solo-leveling-sung-jin-woo-gif-24361109" >
+  <img src="https://media1.tenor.com/m/GaBZpWimIVUAAAAC/solo-leveling-sung-jin-woo.gif" >
 </p>
 
 
