@@ -1,4 +1,4 @@
-```markdown
+
 <p align="center">
   <img src="https://raw.githubusercontent.com/Xaizen-yota/Xaizen-yota/main/banner.png" width="100%" alt="banner"/>
 </p>
