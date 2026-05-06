@@ -1,57 +1,93 @@
-
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Xaizen-yota/Xaizen-yota/main/banner.png" width="100%" alt="banner"/>
+  <img src="https://images.wallpapersden.com/image/download/tokyo-revengers-4k-characters_bWVpa2WUmZqaraWkpJRpaWllrWdoaWU.jpg" width="100%">
 </p>
 
 <h1 align="center">👋 Hi, I'm Mosen Xaizen-yota</h1>
 
 <h3 align="center">
-Frontend Developer • UI/UX Lover • Creative Builder
+Frontend Developer • UI/UX Lover • Creative Builder ✨
 </h3>
 
 <p align="center">
-Building cozy experiences, creative web apps, and fun interactive games ✨
+Building cozy web experiences, AI projects, and creative games 🎮
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=samawi-lah-idawi&label=Profile%20views&color=0e75b6&style=flat" alt="views" />
 </p>
 
 ---
 
+<img src="https://github.com/Xaizen-yota/Xaizen-yota/blob/main/devgif.gif" width="320px" align="right">
+
 # 🚀 About Me
 
-- 🌱 Currently learning Fullstack Development
-- 🎨 Passionate about UI/UX & creative experiences
-- ⚡ Love building AI-powered web apps
-- 🎮 Currently building **Color Joy**
-- 📫 Reach me at: **soon-xd@gmail.com**
+- 🔭 Currently studying at [ALX Africa](https://www.alxafrica.com/)
+- 🌱 Currently learning **Fullstack Development**
+- 💬 Ask me about **Frontend • Backend • UI/UX**
+- 📫 Reach me at: **[soon-xd@gmail.com](mailto:soon-xd@gmail.com)**
+- ✈️ Fun fact: Traveling is life
+
+<br>
+<br>
 
 ---
 
 # 🎮 Current Project — Color Joy
 
-A cozy AI-powered coloring web game where users can:
+A cozy AI-powered coloring game where users can:
 
 ✨ Draw & color  
 ✨ Generate AI coloring pages  
 ✨ Compare artworks with friends  
-✨ Share creations on social media  
-✨ Relax and enjoy cute vibes
+✨ Share creations online  
+✨ Relax and enjoy cozy vibes
 
 ---
 
-# 🛠️ Tech Stack
+# 🛠 Languages & Tools
 
 <p align="center">
 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="55"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="55"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="55"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="55"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="55"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="55"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" width="55"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="55"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="55"/>
+<a href="https://getbootstrap.com" target="_blank">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" width="50"/>
+</a>
+
+<a href="https://www.cprogramming.com/" target="_blank">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="50"/>
+</a>
+
+<a href="https://www.w3schools.com/css/" target="_blank">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="50"/>
+</a>
+
+<a href="https://flask.palletsprojects.com/" target="_blank">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" width="50"/>
+</a>
+
+<a href="https://git-scm.com/" target="_blank">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="50"/>
+</a>
+
+<a href="https://www.w3.org/html/" target="_blank">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="50"/>
+</a>
+
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="50"/>
+</a>
+
+<a href="https://www.linux.org/" target="_blank">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="50"/>
+</a>
+
+<a href="https://www.python.org" target="_blank">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="50"/>
+</a>
 
 </p>
+
+<br>
 
 ---
 
@@ -59,37 +95,19 @@ A cozy AI-powered coloring web game where users can:
 
 <p align="center">
 
-<a href="https://linkedin.com/in/osm-deep">
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="40"/>
+<a href="https://linkedin.com/in/osm-deep" target="blank">
+<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="40" width="40" />
 </a>
 
-<a href="https://facebook.com/">
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" width="40"/>
+<a href="https://fb.com/" target="blank">
+<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" height="40" width="40" />
 </a>
 
-<a href="https://discord.gg/#4834">
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" width="40"/>
+<a href="https://discord.gg/#4834" target="blank">
+<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" height="40" width="40" />
 </a>
 
 </p>
-
----
-
-# ✨ Featured Projects
-
-## 🎨 Color Joy
-Cozy AI coloring web game with:
-- AI generation
-- Compare mode
-- Drawing tools
-- Social sharing
-- Cute mobile-game UI
-
----
-
-## 🌌 More Projects Coming Soon...
-
-Creative tools, AI experiments, fun web experiences & games ✨
 
 ---
 
@@ -98,6 +116,8 @@ Creative tools, AI experiments, fun web experiences & games ✨
 <p align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=Xaizen-yota&show_icons=true&theme=tokyonight"/>
+
+<br>
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Xaizen-yota&theme=tokyonight"/>
 
@@ -108,20 +128,20 @@ Creative tools, AI experiments, fun web experiences & games ✨
 # ☕ Support
 
 <p align="center">
-  <a href="https://buymeacoffee.com/">
-    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="220"/>
-  </a>
+<a href="https://youtu.be/KUzd8BcVSdo">
+<img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="55" width="220"/>
+</a>
 </p>
 
 ---
 
-# ✨ Quote I Like
-
-> “Create things people enjoy using.”
+<p align="center">
+  <img src="https://github.com/Xaizen-yota/Xaizen-yota/blob/main/bye%20bye.gif" width="100%">
+</p>
 
 ---
 
-<h3 align="center">
-Thanks for visiting my GitHub 💜
-</h3>
-```
+<h2 align="center">
+Thank you for visiting my GitHub 💜
+<img src="https://github.com/Xaizen-yota/Xaizen-yota/blob/main/byby.gif" height="35px" width="35px">
+</h2>
